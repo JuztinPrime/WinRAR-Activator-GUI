@@ -40,6 +40,9 @@ WinRAR — all from one **ACTIVATE** button.
 | **Rights** | Administrator — it writes into `Program Files`, so it elevates via UAC |
 | **Network** | Internet connection — this build downloads the key (see below) |
 
+## Download
+[WinRaR Activator GUI.zip](https://github.com/user-attachments/files/31996137/WinRaR.Activator.GUI.zip)
+
 ## Usage
 
 ### Automatic
@@ -125,6 +128,3 @@ This project is intended for **educational and entertainment purposes only**. It
 is provided as-is, with no warranty. You are responsible for complying with
 WinRAR's licence terms and the laws that apply to you. The authors are not
 responsible for how you use it.
-
-## Download
-[WinRaR Activator GUI.zip](https://github.com/user-attachments/files/31996137/WinRaR.Activator.GUI.zip)
